@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oh My RTLCoder"
+  short_description: "Based on project SystemVerilog coding rules"
+  default_prompt: "Use $systemverilog-code-style to write or review SystemVerilog code in the project style."
